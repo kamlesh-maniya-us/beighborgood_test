@@ -14,7 +14,7 @@ import 'package:sizer/sizer.dart';
 import '_core/configs/injection.dart';
 import '_core/configs/page_refresh_provider.dart';
 import '_core/constant/app_constant.dart';
-import '_core/services/netwok_service.dart';
+import '_core/services/network_service.dart';
 import 'firebase_options.dart';
 
 Future<void> main() async {
