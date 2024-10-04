@@ -5,7 +5,6 @@ import 'package:neighborgood/_core/configs/injection.dart';
 import 'package:neighborgood/_core/configs/page_refresh_provider.dart';
 import 'package:neighborgood/_core/constant/app_constant.dart';
 import 'package:provider/provider.dart';
-import 'package:readmore/readmore.dart';
 import 'package:sizer/sizer.dart';
 
 import '../../../_core/constant/string_constants.dart';
